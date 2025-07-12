@@ -13,7 +13,7 @@ The project covers the full business intelligence pipeline, including:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](maven-dashboard.png)
+![Dashboard Screenshot](MavenMarket.jpg)
 
 > *Branded “Topline Performance” page includes KPI cards, matrix visuals, maps, treemaps, time-based charts, and drill-down interactivity.*
 
